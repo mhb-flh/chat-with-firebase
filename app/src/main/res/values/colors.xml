@@ -10,4 +10,5 @@
     <color name="iconBG">#20FFFFFF</color>
     <color name="Error">#B00020</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="blueGreen">#009688</color>
 </resources>
