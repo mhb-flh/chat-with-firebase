@@ -37,7 +37,7 @@ public class constants {
             remoteMsgHeaders = new HashMap<>();
             remoteMsgHeaders.put(
                     REMOTE_MSG_AUTHORIZATION,
-                    "key=AAAAZlAG_-g:APA91bEwVMw28drKI6OalSEc_KBPUHGmXPzgt_ETdE782CngPvYTQHxUHt_qRFfgibR7z_FedYXCKLhc59Xn4UNUdHbyRbvwroZTgLGS18q37BbWzsDXjL48i4pmyDPhP6EGMFGNARCp"
+                    //"key=go to project setting -> cloud messaging -> secret key "
             );
             remoteMsgHeaders.put(REMOTE_MSG_CONTENT_TYPE, "application/json");
         }
