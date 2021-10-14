@@ -3,12 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/drawable/background_chat_input.xml" value="0.19398148148148148" />
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/drawable/background_content_top.xml" value="0.19398148148148148" />
         <entry key="..\:/prooooojects/Chat2/app/src/main/res/drawable/background_icon.xml" value="0.19398148148148148" />
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/drawable/background_receive_message.xml" value="0.19398148148148148" />
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/drawable/background_sent_message.xml" value="0.19398148148148148" />
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/drawable/backgroung_content_bottom.xml" value="0.19398148148148148" />
         <entry key="..\:/prooooojects/Chat2/app/src/main/res/drawable/bg_img.xml" value="0.21822916666666667" />
         <entry key="..\:/prooooojects/Chat2/app/src/main/res/drawable/bg_input.xml" value="0.21822916666666667" />
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/layout/activity_chat.xml" value="0.22" />
         <entry key="..\:/prooooojects/Chat2/app/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
         <entry key="..\:/prooooojects/Chat2/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
         <entry key="..\:/prooooojects/Chat2/app/src/main/res/layout/activity_sign_up.xml" value="0.20208333333333334" />
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/layout/activity_users.xml" value="0.18" />
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/layout/item_container_receive_message.xml" value="0.17962962962962964" />
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/layout/item_container_recent_conversation.xml" value="0.17962962962962964" />
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/layout/item_container_sent_message.xml" value="0.17962962962962964" />
+        <entry key="..\:/prooooojects/Chat2/app/src/main/res/layout/item_container_user.xml" value="0.17962962962962964" />
       </map>
     </option>
   </component>
